@@ -2,7 +2,7 @@
 
 ## Back-end
 
-To make project work correctly you need to tun back-end sever. You can find it by this [link](https://github.com/HrynyshynaSophia/app-angular-server)
+To make project work correctly you need to run back-end sever. You can find it by this [link](https://github.com/HrynyshynaSophia/app-angular-server)
 
 ## Getting started
 
