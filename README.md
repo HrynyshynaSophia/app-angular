@@ -1,12 +1,18 @@
 # Angular-app
 
+## Back-end
 
+To make project work correctly you need to tun back-end sever. You can find it by this [link](https://github.com/HrynyshynaSophia/app-angular-server)
 
 ## Getting started
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+To run project type `ng serve` in tour terminal.
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+```bash
+ng serve
+```
+
+
 
 ## Add your files
 
